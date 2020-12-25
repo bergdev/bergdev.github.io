@@ -79,7 +79,7 @@ iframe {
   font-weight: 700;
 }
 .main-block p {
-  font-family: 'NunitoSans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #787878;
   margin: 2rem 0;
 }
@@ -93,7 +93,7 @@ iframe {
   font-weight: 700;
 }
 .about p {
-  font-family: 'NunitoSans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 11pt;
   margin: 40px 0;
   color: #787878;
@@ -206,7 +206,7 @@ iframe {
   color: #787878;
   text-align: center;
   font-size: 12pt;
-  font-family: 'NunitoSans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   width: 100%;
   padding: 40px;
   margin-top: -7px;
@@ -224,7 +224,7 @@ iframe {
 }
 .working p {
   margin-top: 43px;
-  font-family: 'NunitiSans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   color: #787878;
 }
 .working h3 {
@@ -308,7 +308,7 @@ iframe {
   font-weight: 700;
 }
 .form p {
-  font-family: 'NunitoSans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   margin-top: 30px;
   color: #787878;
 }
@@ -341,7 +341,7 @@ iframe {
   opacity: 0.5;
 }
 .form-button {
-  font-family: 'NunitiSans', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   margin-top: 35px;
   text-transform: uppercase;
   text-align: center;
