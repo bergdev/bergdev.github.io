@@ -8,8 +8,8 @@
 /* Icons Font */
 @font-face {
   font-family: 'Pe-icon-7-stroke';
-  src: url('/fonts/iconsfont/Pe-icon-7-stroke.eot');
-  src: url('/fonts/iconsfont/Pe-icon-7-stroke.eot?#iefix') format('embedded-opentype'), url('/fonts/iconsfont/Pe-icon-7-stroke.woff') format('woff'), url('/fonts/iconsfont/Pe-icon-7-stroke.ttf') format('truetype'), url('/fonts/iconsfont/Pe-icon-7-stroke.svg#Pe-icon-7-stroke') format('svg');
+  src: url('../fonts/iconsfont/Pe-icon-7-stroke.eot');
+  src: url('../fonts/iconsfont/Pe-icon-7-stroke.eot?#iefix') format('embedded-opentype'), url('/fonts/iconsfont/Pe-icon-7-stroke.woff') format('woff'), url('/fonts/iconsfont/Pe-icon-7-stroke.ttf') format('truetype'), url('/fonts/iconsfont/Pe-icon-7-stroke.svg#Pe-icon-7-stroke') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
